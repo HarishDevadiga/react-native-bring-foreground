@@ -1,5 +1,5 @@
 
-# react-native-bring-foreground 
+# react-native-bring-foreground (https://www.npmjs.com/package/react-native-bring-foreground)
 
 this is a react-native library for launching the application when the application is in the background . 
 

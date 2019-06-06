@@ -17,7 +17,7 @@
     "react-native-launch-application",
     "react-native-launch-application-foreground"
   ],
-
+  "homepage": "https://github.com/HarishDevadiga/react-native-bring-foreground",
   "author": {
     "name": "Harish Devadiga",
     "email": "harishdevadiga006@gmail.com"
